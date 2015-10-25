@@ -24,12 +24,16 @@ social:
     url: http://bitbucket.org/denwilliams
   - title: github
     url: https://github.com/denwilliams
+  - title: linkedin
+    url: https://www.linkedin.com/in/denwilliams
 
 links:
   resume: http://resume.denwilliams.net
   blog: http://blog.denwilliams.net
   flickr: https://www.flickr.com/photos/denwilliams/
   500px: https://500px.com/denwilliams
+  homenetCore: https://github.com/denwilliams/homenet-core
+  homenetApp: https://github.com/denwilliams/homenet-app
 
 # Build settings
 markdown: kramdown
